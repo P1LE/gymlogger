@@ -1,1 +1,1 @@
-This program logs the workouts of each week.
+This program logs the workouts of each day of the week.
